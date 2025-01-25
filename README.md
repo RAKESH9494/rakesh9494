@@ -1,6 +1,6 @@
 # Hi👋  
 
-I'm **Rakesh Ummadi**, a Blockchain and Web3 Developer with over 3 years of experience in:
+I'm **Rakesh Ummadi**, a Blockchain and Web3 Developer with experience in:
 - Building **decentralized applications (dApps)** using Solidity and React.js.
 - Implementing **zero-knowledge proofs (ZKP)** for enhanced privacy in blockchain systems.
 - Creating secure, upgradeable smart contracts using **UUPS** and other proxy patterns.
